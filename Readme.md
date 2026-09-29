@@ -47,7 +47,7 @@ The analytical logic includes custom DAX measures for core KPIs and Time Intelli
 
 ## Dashboard Structure
 
-The Power BI Desktop report (`.pbix`) consists of the following structured report pages:
+The Power BI Desktop report (`.pbix`) [Open here in PowerBI Desktop](https://app.powerbi.com/links/I_PkLgSXdi?ctid=874c838a-94f6-4ac8-9516-bec365f7a390&pbi_source=linkShare) consists of the following structured report pages:
 
 ### 1.  Financial Overview
 * **KPI Summary Cards:** Quick view of Total Sales, Total Profit, Net Profit, and Profit Margin.
